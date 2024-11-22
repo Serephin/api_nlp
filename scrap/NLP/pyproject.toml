@@ -1,0 +1,8 @@
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "0.115.4"
+uvicorn = "0.32.0"
+transformers = "4.46.1"
+torch = "2.5.1"
+httpx = ">=0.24.1"
+numpy = ">=1.26.0"
